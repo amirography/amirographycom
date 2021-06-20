@@ -1,0 +1,63 @@
+:root {
+    --nord0:#2E3440 ;
+    --nord1:#3B4252 ;
+    --nord2:#434C5E ;
+    --nord3:#4C566A ;
+    --nord4:#D8DEE9 ;
+    --nord5:#E5E9F0 ;
+    --nord6:#ECEFF4 ;
+    --nord7:#8FBCBB ;
+    --nord8:#88C0D0 ;
+    --nord9:#81A1C1 ;
+    --nord10:#5E81AC ;
+    --nord11:#BF616A ;
+    --nord12:#D08770 ;
+    --nord13:#EBCB8B ;
+    --nord14:#A3BE8C ;
+    --nord15:#B48EAD ;
+
+    --theme: var(--nord4);
+    --entry: var(--nord4);
+    --primary: var(--nord0);
+    --secondary: var(--nord1);
+    --tertiary: var(--nord2);
+    --content: var(--nord3);
+    --hljs-bg: var(--nord0);
+    --code-bg: var(--nord5);
+    --border: var(--nord6);
+}
+.dark {
+    --theme: var(--nord0);
+    --entry: var(--nord1);
+    --primary: var(--nord4);
+    --secondary: var(--nord5);
+    --tertiary: var(--nord6);
+    --content: var(--nord4);
+    --hljs-bg: var(--nord1);
+    --code-bg: var(--nord2);
+    --border: var(--nord3);
+}
+h1{
+    color: var(--nord11);
+}
+h2{
+    color: var(--nord12);
+}
+h3{
+    color: var(--nord13);
+}
+h4{
+    color: var(--nord14);
+}
+h5{
+    color: var(--nord15);
+}
+h6{
+    color: var(--nord10);
+}
+b {
+    color: var(--nord12);
+}
+a {
+    color: var(--content);
+}

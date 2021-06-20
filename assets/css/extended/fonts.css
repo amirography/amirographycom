@@ -44,7 +44,7 @@ h6{
 code {
     font-family: 'Iosevka Web',monospace;
 }
-p{
+p,li{
   font-family: 'Iosevka aile Web',Sans-Serif;
   font-weight: 400;
 }

@@ -41,10 +41,10 @@ h6{
 	font-family: 'Iosevka Aile Web',Sans-Serif;
 	font-weight: 900;
 }
-code {
+code, .post-meta {
     font-family: 'Iosevka Web',monospace;
 }
-p,li{
+p,li,.breadcrumbs{
   font-family: 'Iosevka aile Web',Sans-Serif;
   font-weight: 400;
 }

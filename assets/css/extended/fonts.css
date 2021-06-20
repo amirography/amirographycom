@@ -60,3 +60,6 @@ p,li,.breadcrumbs{
 #menu .active{
   font-weight:900;
 }
+body {
+  font-family:"iosevka aile web","iosevka Aile","iosevka","Fira sans", -apple-system, BlinkMacSystemFont,"Segoe ui", "Roboto", "Oxygen", "Ubuntu","Cantarell",O"pen Sans", "Helvetica neue", sans-serif;
+}
